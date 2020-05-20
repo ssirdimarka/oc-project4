@@ -1,0 +1,10 @@
+.Membre{
+    
+    color: white;
+    text-align: center;
+}
+.cards{
+  display: flex;
+  
+  justify-content: center;
+}
